@@ -16,31 +16,27 @@ A mobile-first finance tracking application built using Flutter and Firebase to 
 - RESTful APIs
 
 ## Screenshots
-## Screenshots
 
 ### Onboarding & Authentication
-![Splash Screen](screenshots/splash.jpeg)
-![Onboarding Screen 1](screenshots/onboardingscreen1.jpeg)
-![Onboarding Screen 2](screenshots/onboardingscreen2.jpeg)
-![Onboarding Screen 3](screenshots/onboardingscreen3.jpeg)
-![Login Screen](screenshots/login.jpeg)
+<img src="screenshots/splash.jpeg" width="250"/>
+<img src="screenshots/onboardingscreen1.jpeg" width="250"/>
+<img src="screenshots/onboardingscreen2.jpeg" width="250"/>
+<img src="screenshots/onboardingscreen3.jpeg" width="250"/>
+<img src="screenshots/login.jpeg" width="250"/>
 
 ### Dashboard & Analytics
-![Dashboard](screenshots/dashboard.jpeg)
-![Analytics Overview](screenshots/analytics.jpeg)
-![Analytics Detail](screenshots/analytics2.jpeg)
-![Analytics Charts](screenshots/analytics3.jpeg)
+<img src="screenshots/dashboard.jpeg" width="250"/>
+<img src="screenshots/analytics.jpeg" width="250"/>
+<img src="screenshots/analytics2.jpeg" width="250"/>
+<img src="screenshots/analytics3.jpeg" width="250"/>
 
 ### Budget & Transactions
-![Budget Screen](screenshots/budget.jpeg)
-![Transactions](screenshots/transactions.jpeg)
+<img src="screenshots/budget.jpeg" width="250"/>
+<img src="screenshots/transactions.jpeg" width="250"/>
 
-### User Profile
-![Profile Screen](screenshots/profile.jpeg)
-
-### Welcome Screen
-![Welcome Screen](screenshots/Welcome.jpeg)
-
+### User Profile & Welcome
+<img src="screenshots/profile.jpeg" width="250"/>
+<img src="screenshots/Welcome.jpeg" width="250"/>
 
 
 ## Purpose
