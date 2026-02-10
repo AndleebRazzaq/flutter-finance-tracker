@@ -1,6 +1,4 @@
-# flutter-finance-tracker
-Flutter finance app with Firebase backend
-# Finance Tracker App
+# Flutter-Finance Tracker App
 
 A mobile-first finance tracking application built using Flutter and Firebase to help users manage expenses and income efficiently.
 
