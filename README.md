@@ -16,7 +16,8 @@ A mobile-first finance tracking application built using Flutter and Firebase to 
 - RESTful APIs
 
 ## Screenshots
-![App UI](screenshots/home.png)
+![App UI](screenshots/home.jpeg)
+
 
 ## Purpose
 Built as a real-world project to practice Flutter app development and backend integration.
