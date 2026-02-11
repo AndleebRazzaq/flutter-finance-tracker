@@ -16,27 +16,42 @@ A mobile-first finance tracking application built using Flutter and Firebase to 
 - RESTful APIs
 
 ## Screenshots
-
 ### Onboarding & Authentication
-<img src="screenshots/splash.jpeg" width="250"/>
-<img src="screenshots/onboardingscreen1.jpeg" width="250"/>
-<img src="screenshots/onboardingscreen2.jpeg" width="250"/>
-<img src="screenshots/onboardingscreen3.jpeg" width="250"/>
-<img src="screenshots/login.jpeg" width="250"/>
+
+<p align="center">
+  <img src="screenshots/splash.jpeg" width="220"/>
+  <img src="screenshots/onboardingscreen1.jpeg" width="220"/>
+  <img src="screenshots/onboardingscreen2.jpeg" width="220"/>
+  <img src="screenshots/onboardingscreen3.jpeg" width="220"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/Welcome.jpeg" width="220"/>
+  <img src="screenshots/login.jpeg" width="220"/>
+  <img src="screenshots/profile.jpeg" width="220"/>
+</p>
+
 
 ### Dashboard & Analytics
-<img src="screenshots/dashboard.jpeg" width="250"/>
-<img src="screenshots/analytics.jpeg" width="250"/>
-<img src="screenshots/analytics2.jpeg" width="250"/>
-<img src="screenshots/analytics3.jpeg" width="250"/>
 
-### Budget & Transactions
-<img src="screenshots/budget.jpeg" width="250"/>
-<img src="screenshots/transactions.jpeg" width="250"/>
+<p align="center">
+  <img src="screenshots/dashboard.jpeg" width="220"/>
+  <img src="screenshots/transactions.jpeg" width="220"/>
+  <img src="screenshots/analytics.jpeg" width="220"/>
+</p>
+
+<p align="center">
+   <img src="screenshots/analytics2.jpeg" width="220"/>
+  <img src="screenshots/analytics3.jpeg" width="220"/>
+   <img src="screenshots/budget.jpeg" width="220"/>
+</p>
+
 
 ### User Profile & Welcome
-<img src="screenshots/profile.jpeg" width="250"/>
-<img src="screenshots/Welcome.jpeg" width="250"/>
+
+<p align="center">
+  <img src="screenshots/profile.jpeg" width="220"/>
+</p>
 
 
 ## Purpose
